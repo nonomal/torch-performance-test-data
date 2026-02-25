@@ -122,7 +122,28 @@
 | NVIDIA GeForce RTX 3070 Ti Laptop GPU | 8.64 | 15.60 | 34.35 | 34.11 |  笔记本 | [datdanboi25](https://github.com/datdanboi25)|
 | NVIDIA GeForce RTX 5060 Laptop GPU | 12.15 | 16.64 | 33.89 | 35.27 |  笔记本 |  [LingHe-9639](https://github.com/LingHe-9639)|
 | NVIDIA L4 | 15.38 | 31.88 | 68.83 | 70.89 | 实体机 |[Arcannite](https://github.com/Arcannite)|
-
+| AMD Radeon RX 5700 XT [ZLUDA] | 7.15 | 7.06 | 5.87 | 3.52 | 实体机 | [isah1221](https://github.com/isah1221) |
+| NVIDIA GeForce RTX 5090 | 69.83 | 122.13 | 223.98 | 236.99 | 智算云扉 | [yjzxkxdn](https://github.com/yjzxkxdn) |
+| NVIDIA P104-100 | 5.01 | 5.08 | 4.99 | 2.96 | 实体机 | [llll415](https://github.com/llll415) |
+| NVIDIA A10G | 23.37 | 34.71 | 69.47 | 69.47 | 智算云扉 物理机单卡A100 | [a-cold-bird](https://github.com/a-cold-bird) |
+| NVIDIA TITAN RTX | 11.91 | 8.79 | 66.32 | 5.01 | **请填写note** | [DarkNightGhost0](https://github.com/DarkNightGhost0) |
+| NVIDIA GeForce RTX 5060 | 14.12 | 20.49 | 41.92 | 41.87 | 实体机 | [monologue82](https://github.com/monologue82) |
+| NVIDIA GeForce RTX 5060 Ti | 15.85 | 22.85 | 45.89 | 46.05 | **请填写note** | [S1ntinel](https://github.com/S1ntinel) |
+| NVIDIA GeForce RTX 4060 Ti | 11.92 | 21.61 | 43.36 | 44.74 | 实体机 | [Starlight-Elysia](https://github.com/Starlight-Elysia) |
+| NVIDIA GeForce RTX 3060 | 8.16 | 12.44 | 24.80 | 25.47 | 实体机 | [JFeiF](https://github.com/JFeiF) |
+| NVIDIA GeForce RTX 3080 Ti | 24.38 | 37.75 | 75.75 | 76.05 | **请填写note** | [zhenhuangsdu](https://github.com/zhenhuangsdu) |
+| NVIDIA GeForce RTX 3060 Ti | 11.57 | 18.06 | 36.54 | 33.00 | **请填写note** | [NichijouNano](https://github.com/NichijouNano) |
+| NVIDIA GeForce RTX 5060 Ti | 16.37 | 23.59 | 47.51 | 47.41 | **请填写note** | [1753617247-maker](https://github.com/1753617247-maker) |
+| NVIDIA GeForce RTX 5060 Ti | 16.37 | 23.59 | 47.51 | 47.41 | 实体机 | [1753617247-maker](https://github.com/1753617247-maker) |
+| NVIDIA GeForce RTX 5060 Ti | 17.26 | 24.51 | 48.76 | 49.20 | 实体机 | [soul1688](https://github.com/soul1688) |
+| NVIDIA GeForce RTX 5080 Laptop GPU | 20.60 | 33.49 | 67.95 | 68.19 | 笔记本 | [Sakuraleiying](https://github.com/Sakuraleiying) |
+| AMD Radeon RX 6650 XT | 9.36 | 9.18 | 17.25 | 4.90 | 实体机；Windows 11 | [Pitiedwzr](https://github.com/Pitiedwzr) |
+| NVIDIA GeForce RTX 4050 Laptop GPU | 7.99 | 12.62 | 25.49 | 26.36 | 笔记本 | [yamanoko-do](https://github.com/yamanoko-do) |
+| Tesla V100-SXM2-16GB | 14.51 | 14.47 | 97.36 | 10.65 | 实体机 | [YiLg8765](https://github.com/YiLg8765) |
+| NVIDIA GeForce RTX 5080 Laptop GPU | 23.27 | 36.72 | 74.46 | 78.07 | **请填写note** | [NasNeo777](https://github.com/NasNeo777) |
+| NVIDIA GeForce RTX 2050 | 4.57 | 6.89 | 12.59 | 13.80 | 实体机 | [TenSin](https://github.com/SkyDream01) |
+| NVIDIA GeForce RTX 4060 Laptop GPU | 8.39 | 14.36 | 28.36 | 28.40 | 笔记本 | [NekoLaska](https://github.com/znzsofficial) |
+| NVIDIA GeForce RTX 3080 Ti | 25.56 | 38.44 | 77.02 | 77.72 | **Fill in notes** | [datdanboi25](https://github.com/datdanboi25) |
 
 
 
