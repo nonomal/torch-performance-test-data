@@ -163,7 +163,6 @@
 | NVIDIA GeForce RTX 5060 Ti | 16.85 | 25.06 | 50.24 | 50.21 | 未备注 | [nnnbdxc](https://github.com/nnnbdxc) |
 | Tesla P100-PCIE-16GB | 8.12 | 8.15 | 7.89 | 6.14 | 实体机 | [xxx11-OPS](https://github.com/xxx11-OPS) |
 | AMD Radeon RX 9060 XT | 9.39 | 9.34 | 65.59 | 66.14 | 实体机; R5-5600G | [98Fengyu](https://github.com/98Fengyu) |
-| Intel(R) Arc(TM) B580 Graphics | 11920.04 | 11920.04 | 11920.04 | 11920.04 | 实体机 | [xiaodianding](https://github.com/xiaodianding) |
 | NVIDIA GeForce RTX 5090 D | 62.90 | 112.26 | 213.89 | 218.90 | 实体机；GAINWARD RTX 5090D + AMD RYZEN 7950X3D + 96GB DDR5 RAM | [tlljyang](https://github.com/tlljyang) |
 | NVIDIA GeForce RTX 3060 Laptop GPU | 7.45 | 11.04 | 22.03 | 21.73 | 笔记本 | [Yalightyear](https://github.com/Yalightyear) |
 | NVIDIA GeForce RTX 5050 | 8.74 | 12.22 | 24.53 | 28.37 | 实体机 | [3205323920](https://github.com/3205323920) |
