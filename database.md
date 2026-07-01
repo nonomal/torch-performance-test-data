@@ -144,8 +144,35 @@
 | NVIDIA GeForce RTX 2050 | 4.57 | 6.89 | 12.59 | 13.80 | 实体机 | [TenSin](https://github.com/SkyDream01) |
 | NVIDIA GeForce RTX 4060 Laptop GPU | 8.39 | 14.36 | 28.36 | 28.40 | 笔记本 | [NekoLaska](https://github.com/znzsofficial) |
 | NVIDIA GeForce RTX 3080 Ti | 25.56 | 38.44 | 77.02 | 77.72 | 未备注 | [datdanboi25](https://github.com/datdanboi25) |
-
-
-
-
-
+| NVIDIA GeForce RTX 4060 Ti | 15.62 | 23.84 | 47.80 | 47.78 | 实体机 | [yamanoko-do](https://github.com/yamanoko-do) |
+| NVIDIA GeForce RTX 5060 Laptop GPU | 12.63 | 18.67 | 38.68 | 38.70 | 笔记本 | [lhzlhz419](https://github.com/lhzlhz419) |
+| NVIDIA GeForce RTX 5060 | 13.32 | 20.50 | 41.32 | 41.83 | 实体机 | [NanamiChiaki-7](https://github.com/NanamiChiaki-7) |
+| Intel(R) Iris(R) Xe Graphics | 2.02 | 2.07 | 4.45 | 2.08 | 笔记本 i9-13900H Iris Xe Graphics 96EU 2023 | [CarlGao4](https://github.com/CarlGao4) |
+| NVIDIA GeForce RTX 5070 | 22.79 | 32.19 | 65.07 | 65.36 | 实体机 | [llightos](https://github.com/llightos) |
+| AMD Radeon RX 6800 | 14.08 | 14.05 | 25.39 | 7.59 | 未备注 | [vaselisk96](https://github.com/vaselisk96) |
+| NVIDIA Thor | 6.37 | 59.50 | 121.46 | 135.37 | 未备注 | [gpzlx1](https://github.com/gpzlx1) |
+| AMD Radeon RX 7900 XT [ZLUDA] | 20.02 | 20.55 | 73.49 | 76.86 | 实体机 | [Genwohuijiangnan](https://github.com/Genwohuijiangnan) |
+| K500SM_AI | 17.29 | 24.55 | 67.11 | 66.60 | SCNet | [hydrogen114](https://github.com/hydrogen114) |
+| MetaX C500 | 29.80 | 107.57 | 226.28 | 226.69 | GiteeAI | [hydrogen114](https://github.com/hydrogen114) |
+| Iluvatar MR-V100 | 23.76 | 22.94 | 75.92 | 82.11 | GiteeAI | [hydrogen114](https://github.com/hydrogen114) |
+| AMD Radeon RX 7700 XT | 9.44 | 9.38 | 51.93 | 54.22 | 实体机 | [CarlGao4](https://github.com/CarlGao4) |
+| NVIDIA RTX 6000D | 66.17 | 82.19 | 244.99 | 240.84 | 未备注 | [turning point](https://github.com/colstone) |
+| NVIDIA GeForce RTX 5070 | 22.92 | 33.22 | 66.28 | 67.45 | 实体机 | [ATTLES123](https://github.com/ATTLES123) |
+| NVIDIA RTX PRO 6000 Blackwell Workstation Edition | 74.03 | 183.51 | 390.92 | 368.43 | 未备注 | [yoda1125](https://github.com/yoda1125) |
+| NVIDIA RTX PRO 6000 Blackwell Server Edition | 78.99 | 205.23 | 406.97 | 417.34 | 未备注 | [HarryZhang0806](https://github.com/HarryZhang0806) |
+| NVIDIA GeForce RTX 5060 Ti | 16.85 | 25.06 | 50.24 | 50.21 | 未备注 | [nnnbdxc](https://github.com/nnnbdxc) |
+| Tesla P100-PCIE-16GB | 8.12 | 8.15 | 7.89 | 6.14 | 实体机 | [xxx11-OPS](https://github.com/xxx11-OPS) |
+| AMD Radeon RX 9060 XT | 9.39 | 9.34 | 65.59 | 66.14 | 实体机; R5-5600G | [98Fengyu](https://github.com/98Fengyu) |
+| Intel(R) Arc(TM) B580 Graphics | 11920.04 | 11920.04 | 11920.04 | 11920.04 | 实体机 | [xiaodianding](https://github.com/xiaodianding) |
+| NVIDIA GeForce RTX 5090 D | 62.90 | 112.26 | 213.89 | 218.90 | 实体机；GAINWARD RTX 5090D + AMD RYZEN 7950X3D + 96GB DDR5 RAM | [tlljyang](https://github.com/tlljyang) |
+| NVIDIA GeForce RTX 3060 Laptop GPU | 7.45 | 11.04 | 22.03 | 21.73 | 笔记本 | [Yalightyear](https://github.com/Yalightyear) |
+| NVIDIA GeForce RTX 5050 | 8.74 | 12.22 | 24.53 | 28.37 | 实体机 | [3205323920](https://github.com/3205323920) |
+| NVIDIA GeForce RTX 3070 16GB | 13.29 | 18.46 | 37.23 | 38.36 | 实体机；主频2070MHz 显存8000Mhz | [2661540950](https://github.com/2661540950) |
+| NVIDIA GeForce RTX 5070 Ti | 28.29 | 43.38 | 83.95 | 85.32 | 未备注 | [chenling-06](https://github.com/chenling-06) |
+| AMD Radeon Graphics 9070XT | 15.15 | 14.91 | 129.35 | 133.36 | 实体机 | [bbslxj](https://github.com/bbslxj) |
+| Tesla P100-PCIE-16GB | 8.63 | 8.63 | 8.39 | 6.16 | 实体机 | [DQZ618](https://github.com/DQZ618) |
+| NVIDIA GeForce RTX 5070 | 23.68 | 33.37 | 67.27 | 66.74 | 未备注 | [hedouchencn-blip](https://github.com/hedouchencn-blip) |
+| NVIDIA GeForce RTX 5070 | 22.52 | 30.82 | 62.01 | 62.04 | 未备注 | [knosk123](https://github.com/knosk123) |
+| Tesla P100-SXM2-16GB | 9.50 | 9.51 | 8.82 | 5.99 | 未备注 | [rider760](https://github.com/rider760) |
+| NVIDIA GeForce RTX 2080 Ti | 11.52 | 11.90 | 56.78 | 6.95 | 实体机 | [lsfdc233](https://github.com/lsfdc233) |
+| Intel(R) Arc(TM) A770 Graphics | 15.12 | 14.98 | 80.36 | 85.14 | 实体机；win11 32gb i5-14600kf | [Jesselrj](https://github.com/Jesselrj) |
